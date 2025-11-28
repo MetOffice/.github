@@ -1,5 +1,1 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Simulation Systems community support
-    url: https://github.com/MetOffice/simulation-systems/discussions
-    about: Please ask and answer questions here.
+blank_issues_enabled: true
